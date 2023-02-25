@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.parte1{
+    text-align: center;
+   
+}
+.parte1 > h1,h2{
+    margin-bottom: 20px;
+}
+.bills{
+    width: 200px;
+}
+.bordeOculto{
+    border: none;
+    margin-left: 40%;
+    width: 20%;
+}
+.bordeVisible{
+    border: 2px solid red;
+    width: 20%;
+}
+#container{
+    margin-left: 40%;
+}
+
+.parte2{
+    text-align: center;
+    margin: 50px 0 10px 0;
+}
+.container2{
+    display: flex;
+    justify-content: center;
+}
+.container2 > div{
+    width: 100px;
+}
+.inosuke1{
+    width: 100%;
+    border: 3px solid rgb(1, 1, 1);
+   
+}
+.inosuke2{
+    width: 100%;
+    border: 3px solid rgb(0, 0, 0);
+    
+}
+.inosuke4{
+    width: 100%;
+    border: 3px solid rgb(0, 0, 0);
+    
+}
+.number{
+    width: 100%;
+}
+
+
+.parte3{
+    text-align: center;
+    margin: 80px 0 10px 0;
+}
+.container3{
+    display: flex;
+    justify-content: center;
+}
+.container3 > div{
+    width: 100px;
+}
